@@ -1,0 +1,10 @@
+{
+	"version": 3,
+	"file": "import.css",
+	"sources": [
+		"../sass/import.scss",
+		"../sass/_partials-reset.scss"
+	],
+	"mappings": "ACAA,IAAI;AACJ,IAAI;AACJ,EAAE;AACF,EAAE,CAAC;EACA,MAAM,EAAE,CAAE;EACX,OAAO,EAAE,CAAE,GACZ;;ADJD,IAAI,CAAC;EACH,IAAI,EAAE,0BAA2B;EACjC,gBAAgB,EAAE,OAAQ,GAC3B",
+	"names": []
+}

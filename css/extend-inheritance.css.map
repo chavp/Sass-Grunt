@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "extend-inheritance.css",
+	"sources": [
+		"../sass/extend-inheritance.scss"
+	],
+	"mappings": "AAAA,QAAQ,EAMR,QAAQ,EAKR,MAAM,EAKN,QAAQ,CAhBC;EACP,MAAM,EAAE,cAAe;EACvB,OAAO,EAAE,IAAK;EACd,KAAK,EAAE,IAAK,GACb;;AAED,QAAQ,CAAC;EAEP,YAAY,EAAE,KAAM,GACrB;;AAED,MAAM,CAAC;EAEL,YAAY,EAAE,GAAI,GACnB;;AAED,QAAQ,CAAC;EAEP,YAAY,EAAE,MAAO,GACtB",
+	"names": []
+}
